@@ -1,0 +1,219 @@
+= Chamber Choir at Georgia Tech: Constitution
+:revdate: Revised February 10, 2022
+:version-label!:
+
+:pres: pass:q[_President_]
+:evp: pass:q[_Vice President of External Affairs_]
+:ivp: pass:q[_Vice President of Internal Affairs_]
+:fm: pass:q[_Financial Manager_]
+:manager: pass:q[_Manager_]
+:pub: pass:q[_Publicist_]
+
+== Article I: Name
+
+This organization will be known as the Chamber Choir at Georgia Tech, hereafter referred to as Chamber.
+The Georgia Institute of Technology shall hereafter be referred to as the Institute.
+
+== Article II: Purpose
+
+The purpose of this organization shall be to study, rehearse, and perform choral music both on and off the campus,
+to increase student interest in vocal music, to develop musical abilities of students,
+and to aid in presenting to the public a complimentary image of the Institute.
+
+== Article III: Membership
+
+[upperalpha]
+. General members of Chamber shall be full-time registered Georgia Tech Students that meet eligibility requirements for participation in extra-curricular activities as stated in the Georgia Tech Catalog.
+  General membership will be established by signing the membership roster and paying all dues.
+  General members may vote and run for office.
+. Associate Members are Georgia Tech faculty, staff, alumni, and members of the community that have joined Chamber with the consent of the Director.
+  No more than 5 percent of the total Chamber body may consist of community members that are not Georgia Tech Students, Faculty, or Alumni.
+  Associate Members may not vote or run for office.
+. The final membership roster for each semester will be established by the end of the second week of classes.
+  Enrollment in the academic class, "`MUSI 3231 - Chamber Choir`" is not required for membership.
+. Membership will take effect when an interested party signs the membership roster and pays all dues set for the semester.
+
+== Article IV: Officers
+
+=== Section 1: Officers
+
+[upperalpha]
+. Only GT students eligible according to the GT Catalog can hold or run for office.
+  They must be current members of Chamber.
+. The offices of Chamber shall be:
+  {pres}, {evp}, {ivp}, {fm}, {manager}, and {pub}.
+  These officers will be known as the _Executive Committee_.
+  Each officer position will be filled by only one member of Chamber.
+. The {pres} is required to have been a member of Chamber for at least three semesters before being eligible for office.
+  The {evp}, {ivp}, {fm}, {manager}, and {pub} are required to have been a member of Chamber for at least one semester, and a member of the GT Choir program for at least two semesters before being eligible for office.
+  If no interested members meet these criteria, nominations will be open to the floor.
+. The term of all officers shall be one year, beginning on the last day of the Spring semester.
+  The {pres} is required to commit to the full term.
+  If other officers cannot commit to the full term, a re-election can be held for any vacant positions.
+. The officers shall serve without compensation.
+. The shared responsibilities of the _Executive Committee_ shall include:
+** Collaborating with the ensemble Director to agree upon the appointment process of Section Leaders during the first two (2) weeks of the semester.
+
+=== Section 2: Officer Responsibilities
+
+[upperalpha]
+. The responsibilities of the {pres} shall include:
+** Supervision of all officer duties and responsibilities
+** Serving as Chairperson of regular Executive Committee meetings
+** Supervision of officer nominations and elections if not running
+** Coordination of rehearsal announcements
+** Updates and revisions to the constitution
+** Communication with the School of Music Chair
+** Communication with the College of Design's office
+
+. The responsibilities of the {evp} shall include:
+** Serving as a liaison to SGA
+** Recruitment
+** Touring activities for Chamber
+** Serving as Chairperson of Executive Committee meetings in the event of the President's absence
+
+. The responsibilities of the {ivp} shall include:
+** Clerical and secretarial responsibilities
+** Attendance records
+** Ensemble roster (regularly updated)
+** Coordinate social activities for the ensemble and Executive Committee
+** Administration of Section Leaders
+** Mentoring system for new members
+** Rehearsal decorum and discipline
+
+. The responsibilities of the {fm} shall include:
+** All monetary matters involving income and expenses
+** Collection of dues
+** Payment of bills
+** Account balances and statements
+** Ticket allocation and sales for concert
+** Regular financial reports at officer meetings
+** Budget Formulation
+** Sales of any Recordings
+
+. The responsibilities of the {manager} shall include:
+** Set up and strike for all rehearsals and concerts
+** Set-up and operation of multi-media equipment in rehearsals and concerts
+** Arranging Music stands, pianos, and all equipment needed for rehearsal
+** Music (sheet and audio files) librarian
+** Printed programs (in consultation with the Director)
+** Uniform assignments, returns, and records
+** Riser set-up and strike
+** Arranging carpools to and from concerts and rehearsals
+
+. The responsibilities of the {pub} shall include:
+** Supervising the administration of the Chamber website
+** The use of social media, as described in the Publicist Officer Handbook, to represent and advertise the Georgia Tech Chamber Choir
+** The creation of print materials, such as posters and programs, for the Georgia Tech Chamber Choir performances
+** Ensuring that performances will be recorded by coordinating with student volunteers and/or the School of Music
+** Designing and ordering a new Georgia Tech Chamber Choir t-shirt every Spring semester
+
+=== Section 3: Other officers not members of the Executive Committee
+
+Any other officers and their duties will be outlined in the Bylaws.
+
+=== Section 4: Nomination and Election of Officers
+
+[upperalpha]
+. The members of Chamber shall elect the officers at a regular rehearsal of the ensemble no later than 1 month before the end of the Spring semester.
+. Nominations for officers shall begin at least two weeks prior to elections and shall remain open until candidate speeches for that office have begun.
+. Officers shall be elected singularly in the order of {pres}, {evp}, {ivp}, {fm}, {manager} and {pub}.
+. The highest-ranking officer who is not running for an office will preside over the elections.
+. Each candidate shall have no more than two (2) minutes in which to speak about their qualifications for that position, after which, no more than two (2) minutes may be allowed for Chamber members to question the candidate.
+. To begin the election for a specific office, all members nominated to run for that position must leave the room, after which the remaining members will take a vote.
+. Voting shall be conducted by hand raising by all members present.
+. The winner will be determined by a majority vote.
+. If there is no majority vote for that position, the candidates with the two greatest amounts of votes will participate in a run-off election.
+  In a run-off election, another vote will be taken and the winner will be determined by a majority vote. 
+. In the event of a tie in the run-off election, the highest-ranking current officer not involved in the run-off election shall cast the deciding vote.
+
+=== Section 5: Officer Removal
+
+Officers shall be removed in this manner:
+
+[upperalpha]
+. If an officer fails to maintain Institute requirements for holding office (good standing, etc.), they must resign immediately.
+. If it is believed that an officer is not fulfilling their constitutional duties, then a petition requesting their removal must be signed by at least half of the voting membership and presented at a general meeting or a member of the Executive Committee may also petition for another officer's removal.
+  Then, upon verification of the validity of the petition by the Director and the Executive Committee, and at least one week, but no more than two weeks, from the date of submission, another meeting shall be held at which the grievance will be presented with both sides having the opportunity to present a case.
+. The Director, if appropriate, shall preside over the removal hearing.
+  After all arguments have been heard, a secret-ballot vote of the Executive Committee shall be held.
+  If at least two-thirds of the Executive Committee vote for removal, the officer shall be removed immediately.
+  Removal hearings are open to all members of Chamber.
+. If the {pres} is removed or resigns, the {evp} will take their place in the interim.
+  If any officer other than the {pres} is removed or resigns, the {pres} will take their place in the interim.
+. An emergency election must be made within one (1) month of any officer's removal or resignation.
+  Emergency elections will follow usual election procedures, except that the newly elected officer will be instated immediately upon election.
+
+== Article V: Advisor
+
+[upperalpha]
+. A full-time, salaried GT faculty or staff member will serve as Advisor to the organization.
+. In the event of an Advisor vacancy, a new Advisor must be selected and installed within 2 weeks.
+  The organization will notify the Center for Student Engagement of the new Advisor immediately upon installment.
+. The Advisor for Chamber will be the Director of Choral Activities as appointed by the School of Music of Georgia Tech with consent of the Executive Committee.
+  The Advisor will henceforth be referred to as the Director.
+. The Director is expected to perform the duties of Conductor of the ensemble.
+  The Director will select music to be rehearsed and performed and help secure locations for concerts, or will delegate these responsibilities as appropriate.
+  In the event that the Director cannot attend a scheduled rehearsal or performance, they must appoint an officer, member, faculty member, or guest director to fulfill the Director's duties in the Director's absence.
+  The Director must choose this person based on their musical merit and ability to lead the ensemble in a successful rehearsal and/or performance.
+. If the Director should become unsatisfactory in fulfilling their duties, the Executive Committee will first approach the Director and discuss the situation.
+  The Executive Committee will then have the option of taking a vote of no confidence in the Director.
+  The vote will take place at a closed officers meeting.
+  It can only be passed by unanimous decision. If the vote of no confidence is passed, the Executive Committee will then approach the School of Music Chair to discuss the removal and replacement of the Director.
+
+== Article VI: Meetings/Rehearsals
+
+=== Section 1: Regular Rehearsals
+
+Rehearsals shall be held twice a week according to the set rehearsal time as specified by the Director.
+
+=== Section 2: Special Meetings and Concerts 
+
+[upperalpha]
+. The Director may call special Chamber rehearsals and meetings with the approval of at least two officers.
+. Concerts shall be announced as early as possible and all performance members must attend all concerts.
+  Failure to attend concerts can result in revocation of performance member status from Chamber at the Executive Committee's discretion.
+
+=== Section 3: Meeting Procedures 
+
+All business meetings of the ensemble and officers shall be run loosely according to Roberts' Rules.
+Robert's Rules of Order will govern all instances not covered by this constitution.
+
+== Article VII: Finances
+
+[upperalpha]
+. The officers shall establish member dues and deadlines for payment by majority vote.
+  All payments must be received by the established date unless prior arrangements have been made with the ensemble member and financial manager.
+. If ensemble dues have not been paid by the deadline, a reasonable fine as determined annually by the officers may be levied by majority vote.
+  This fine and dues in full are to be paid by the secondary due date, as determined by the officers.
+  If payment is not received by the secondary due date, said member will not be eligible to vote, hold office, or attend social functions that are sponsored by the ensemble.
+. No public announcement of individual names citing persons who have not paid dues is allowed.
+  Individual notification of dues non-payment must be made in private and in writing.
+. All official financial documents must be signed jointly by the Financial Manager and the President, and approved by the Director in advance of the expenditure.
+. The fiscal year for Chamber shall be from July 1 to the next succeeding June 30.
+
+== Article VIII: Parliamentary Procedure
+
+Robert's Rules of Order will be used in instances not covered in this constitution.
+
+== Article IX: Non-Discrimination Statement
+
+Membership and all privileges, including voting and officer positions, must be extended to all students without regard to race, color, sex, sexual orientation, gender identity, gender expression, ethnicity or national origin, religion, age, genetic information, disability, or veteran status, unless exempt under Title IX.
+
+== Article X: Affiliation
+
+[upperalpha]
+. This organization is a Registered Student Organization (RSO) at Georgia Institute of Technology but is not part of the Institute itself.
+. In all correspondence and publications, it may refer to itself as an organization at Georgia Institute of Technology, but not as part of Georgia Tech itself.
+. Chamber accepts full financial and production responsibility for all activities it sponsors.
+. Chamber agrees to abide by all pertinent GT policies and regulations.
+  Where GT policies and regulations and those of RSO differ, including those regulations and policies mandated by an external affiliated organization, the policies and regulations of GT take precedence.
+. Chamber recognizes and understands that the Georgia Tech assumes no legal liability for the actions of the organization.
+
+== Article XI: Constitutional Amendments
+
+[upperalpha]
+. Amendments to the constitution shall be submitted to the Executive Committee in writing for consideration by either a member of the Executive Committee or by a Chamber member with the signature of 10 other members. 
+. Written notification of the proposed amendment to all voting members must be made by mail or email at least two weeks in advance of any proposed change in the constitution.
+. A two-thirds vote of members present will be required for adoption.
+. Amendments are subject to the approval by the Student Activities Committee.
