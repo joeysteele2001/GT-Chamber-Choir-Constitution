@@ -1,5 +1,8 @@
 # GT Chamber Choir Constitution
 
+[![View the Constitution here.](https://img.shields.io/badge/View%20the%20Constitution%20here-7990c0)](/const.adoc)
+[![View the Bylaws here.](https://img.shields.io/badge/View%20the%20Bylaws%20here-be9b72)](/bylaws.adoc)
+
 This repository holds AsciiDoc source files with the content of the Constitution and Bylaws for Chamber Choir at Georgia Tech.
 With Pandoc, it is possible to generate uniformly-formatted Word documents for each, which can then be exported to PDF for easier viewing.
 Note that it is also possible to view the files on GitHub directly, rendered nicely.
