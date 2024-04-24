@@ -121,11 +121,11 @@ Any other officers and their duties will be outlined in the Bylaws.
 . The highest-ranking officer who is not running for an office will preside over the elections.
 . Each candidate shall have no more than two (2) minutes in which to speak about their qualifications for that position, after which, no more than two (2) minutes may be allowed for Chamber members to question the candidate.
 . To begin the election for a specific office, all members nominated to run for that position must leave the room, after which the remaining members will take a vote.
-. Voting shall be conducted by hand raising by all members present.
-. The winner will be determined by a majority vote.
-. If there is no majority vote for that position, the candidates with the two greatest amounts of votes will participate in a run-off election.
-  In a run-off election, another vote will be taken and the winner will be determined by a majority vote. 
-. In the event of a tie in the run-off election, the highest-ranking current officer not involved in the run-off election shall cast the deciding vote.
+. The Approval Voting system shall dictate casting and tabulation of votes.
+  Vote casting shall be conducted by hand raising by all members present.
+  Each present member shall cast a vote for as many candidates as they approve of, and shall cast at most one vote per candidate.
+. The winner shall be the candidate with the most approval votes.
+. In the event of a tie for most approval votes, the highest-ranking officer not involved in the election shall cast the deciding vote for one of the candidates tied for most votes.
 
 === Section 5: Officer Removal
 
