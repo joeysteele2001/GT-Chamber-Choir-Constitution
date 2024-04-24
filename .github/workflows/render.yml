@@ -1,0 +1,36 @@
+name: Render Constitution and Bylaws
+on:
+    pull_request:
+        types: [opened, reopened, edited, auto_merge_enabled, synchronize]
+    push:
+        branches:
+            - '*'
+
+jobs:
+    render:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: ruby/setup-ruby@v1
+              with:
+                ruby-version: 2.7
+            - uses: reitzig/actions-asciidoctor@v2.0.1
+              with:
+                version: 2.0.17
+            - uses: pandoc/actions/setup@main
+              with:
+                version: 2.17
+            - uses: extractions/setup-just@v2
+
+            - run: just build const
+            - run: just build bylaws
+
+            - uses: actions/upload-artifact@v4
+              with:
+                name: Constitution
+                path: build/const.docx
+            - uses: actions/upload-artifact@v4
+              with:
+                name: Bylaws
+                path: build/bylaws.docx
+                    
