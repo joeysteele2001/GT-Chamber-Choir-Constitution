@@ -1,10 +1,5 @@
 name: Render Constitution and Bylaws
-on:
-    pull_request:
-        types: [opened, reopened, edited, auto_merge_enabled, synchronize]
-    push:
-        branches:
-            - '*'
+on: push
 
 jobs:
     render:

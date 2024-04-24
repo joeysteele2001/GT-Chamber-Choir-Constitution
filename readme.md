@@ -9,6 +9,14 @@ Note that it is also possible to view the files on GitHub directly, rendered nic
 
 ## Generating Files
 
+### Online: GitHub Actions
+
+Whenever you create or update a Pull Request, your proposed changes will rendered to Word documents and sent as a comment automatically.
+Additionally, whenever changes are pushed to this GitHub repository in any branch, a GitHub Action will render the documents automatically.
+To access the results, click the green check mark next to the commit message to see the details of the run, then look for the "Artifacts" in the summary to download the rendered Word files.
+
+### Locally
+
 To generate files, the following tools are needed:
 
 * [AsciiDoctor](https://asciidoctor.org/), to generate DocBook files,
