@@ -26,3 +26,64 @@ Section Leaders shall have the following responsibilities:
 
 Chamber members will be required to attend two, 1-hour rehearsals each month outside of the regular rehearsal time.
 The meeting time will be determined by the section leader at the beginning of the semester. 
+
+== Article III: Social Events
+=== Section 1: Online Events
+
+The _Executive Committee_, as outlined in the Constitution, will be required to hold one online social event per year.
+Such event must take place on the ninety-first (91st) day of the year, regardless of the day of the week, except during bissextile years as prescribed in Article III, Section 2, in which case, the event takes place on the ninety-second (92nd) day of the year.
+This event will henceforth be referred to as the _Nonagesimo Primo Die Celebrationis_, including during bissextile years.
+
+During the _Nonagesimo Primo Die Celebrationis_, all channels on the Chamber Choir workspace in the Georgia Institute of Technology Slack Enterprise grid shall be renamed to "pap-f24".
+After the _Nonagesimo Primo Die Celebrationis_ ends, all channels' names shall be reverted to their original names prior to the _Nonagesimo Primo Die Celebrationis_.
+Until such time as Slack releases its users from the barbaric rule banning duplicate titles for channels, each channel shall be named to a unique variation on "pap-f24", following the construction rules defined in Article III, Section 3.
+
+=== Section 2: Bissextile Years
+
+The several Years of our Lord, 1800, 1900, 2100, 2200, 2300, or any other hundredth Years of our Lord, which shall happen in Time to come, except only every fourth hundredth Year of our Lord, whereof the Year of our Lord 2000 shall be the first, shall not be esteemed or taken to be Bissextile or Leap Years, but shall be taken to be common Years, consisting of 365 Days, and no more;
+
+and that the Years of our Lord 2000, 2400, 2800, and every other fourth hundred Year of our Lord, from the said Year of our Lord 2000 inclusive, and also all other Years of our Lord, which by the present Supputation are esteemed to be Bissextile or Leap Years, shall for the future, and in all Times to come, be esteemed and taken to be Bissextile or Leap Years, consisting of 366 Days, in the same Sort and Manner as is now used with respect to every fourth Year of our Lord.
+
+=== Section 3: Channel Name Construction Rules
+
+A valid channel name shall be the concatenation of six non-empty string fragments, henceforth named _P1_, _A_, _P2_, _D_, _F_, and _N_.
+Valid sequences for each part shall be specified henceforth by sequences of Unicode code points.
+Explanatory names are provided for ease of understanding only.
+
+Valid sequences for _P1_ and _P2_ are:
+
+* `U+0070` (p: Latin Small Letter P),
+* `U+03C1` (ρ: Greek Small Letter Rho),
+* `U+03C0` (π: Greek Small Letter Pi), and
+* `U+0440` (р: Cyrillic Small Letter Er).
+
+Valid sequences for _A_ are:
+
+* `U+0061` (a: Latin Small Letter A),
+* `U+03B1` (α: Greek Small Letter Alpha), and
+* `U+0430` (а: Cyrillic Small Letter A).
+
+The singular valid sequence for _D_ is `U+002D` (-: Hyphen-Minus).
+
+Valid sequences for _F_ are:
+
+* `U+0066` (f: Latin Small Letter F),
+* `U+0192` (ƒ: Latin Small Letter F With Hook)
+* `U+03DD` (ϝ: Greek Small Letter Digamma)
+* `U+0493` (ғ: Cyrillic Small Letter Ghe With Stroke)
+
+Valid sequences for _N_ are:
+
+* `U+0032` `U+0034` (2: Digit Two, 4: Digit Four),
+* `U+0078` `U+0078` `U+0069` `U+0076` (x: Latin Small Letter X, x: Latin Small Letter X, i: Latin Small Letter I, v: Latin Small Letter V),
+* `U+0078` `U+0078` `U+2173` (x: Latin Small Letter X, x: Latin Small Letter X, ⅳ: Small Roman Numeral Four),
+* `U+0078` `U+2179` `U+0069` `U+0076` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, i: Latin Small Letter I, v: Latin Small Letter V),
+* `U+0078` `U+2179` `U+2173` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, ⅳ: Small Roman Numeral Four),
+* `U+2179` `U+0078` `U+0069` `U+0076` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, i: Latin Small Letter I, v: Latin Small Letter V),
+* `U+2179` `U+0078` `U+2173` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, ⅳ: Small Roman Numeral Four),
+* `U+2179` `U+2179` `U+0069` `U+0076` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, i: Latin Small Letter I, v: Latin Small Letter V),
+* `U+2179` `U+2179` `U+2173` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, ⅳ: Small Roman Numeral Four), and
+* `U+218A` `U+0034` (↊: Turned Digit Two, 4: Digit Four).
+
+Concatenation of strings shall be done in a manner identical to the effect of the string concatenation operation in a general-purpose programming language with the namesake of an animal.
+At the time of writing, the recommended reference operation is that of `''.join(strings)` in the Python 3.12 programming language.
